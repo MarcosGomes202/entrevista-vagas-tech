@@ -1,1 +1,24 @@
+Entrevista estruturada sobre vaga de tecnologia
+
+Pergunta 1 - TÍTULO:
+Qual é o título da vaga e qual o propósito principal desse cargo?
+Resposta: Cientista de Dados
+
+Pergunta 2 - SENIORIDADE:
+Qual a senioridade esperada e por quê?
+Resposta: Nível pleno a sênior, pois a função exige autonomia para analisar dados, criar modelos e gerar insights estratégicos. Esse nível é necessário para garantir decisões bem fundamentadas e impacto real no negócio.
+
+Pergunta 3 - STACK:
+Quais tecnologias, frameworks e práticas são essenciais?
+Resposta: Python (Pandas, NumPy, Scikit-learn), SQL e ferramentas de visualização. Além disso, machine learning, tratamento de dados, versionamento com Git e boas práticas de análise e validação.
+
+Pergunta 4 - SOFT SKILLS:
+Quais comportamentos ou atitudes são mais valorizados?
+Resposta: Pensamento analítico, curiosidade e proatividade. Boa comunicação para traduzir dados em insights, autonomia na resolução de problemas e colaboração com a equipe.
+
+Resumo Analítico:
+Título e Propósito: Cientista de Dados, responsável por analisar dados, criar modelos preditivos e gerar insights estratégicos.
+Senioridade: Pleno a Sênior, garantindo autonomia e impacto estratégico.
+Stack Tecnológico: Python (Pandas, NumPy, Scikit-learn), SQL, visualização, Git, machine learning, tratamento de dados e boas práticas de validação.
+Soft Skills: Pensamento analítico, curiosidade, proatividade, boa comunicação e colaboração.
 
