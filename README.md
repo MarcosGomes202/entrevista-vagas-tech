@@ -36,7 +36,7 @@ Após cobrir todos os temas e receber confirmação do usuário, gerar um resumo
 ---
 
 ## 📂 Estrutura do Repositório
-- `entrevista_vaga.txt` → Registro da entrevista realizada  
+- `entrevistas/cientista_dados.txt` → Registro da entrevista realizada  
 - `README.md` → Documento principal com instruções e objetivo  
 
 ---
